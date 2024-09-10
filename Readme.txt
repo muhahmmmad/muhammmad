@@ -1,6 +1,2 @@
-Thanks for downloading this theme!
-
-Theme Name: DevFolio
-Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+authors: Muhammad Abduloh
+isi: berisi  tentang projek saya dalam pembuatan web html yang di mana di dalam nya berisi tentang perkenalan diri, harapan, dan tujuan kedepan
